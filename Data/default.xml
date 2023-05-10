@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<desktop>
+    <settings>
+        <resolution>3200x1680</resolution>
+        <wallpaper>./Images/Default_Wallpaper.jpg</wallpaper>
+        <button_length>200</button_length>
+        <cell_margin>20</cell_margin>
+        <internal_padding>10</internal_padding>
+        <shortcut_font-size>10</shortcut_font-size>
+        <context_font-size>12</context_font-size>
+    </settings>
+    <shortcuts>
+        <!--Add your own shortcuts in the same format as the example :)-->
+        <!--Make sure to escape `<` with `&#60;`, `&` with `&#38;`, `>` with `&#62;`, `'` with `&#39;`,
+        and `"` with `&#34;`-->
+        <!--Escaping double and single quotes are optional in the tag body.-->
+        <button label_text="Demo Button" icon_path="./Images/Default_Icon.png">echo Type your command here.</button>
+    </shortcuts>
+</desktop>
